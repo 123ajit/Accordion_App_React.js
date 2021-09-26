@@ -1,4 +1,5 @@
 # Accordion_App_React.js
+![image](https://user-images.githubusercontent.com/14126987/134802096-38508018-59a9-446b-85c7-1082b7f7c50c.png)
 
 # Available Scripts
 
